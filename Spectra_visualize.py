@@ -7,7 +7,7 @@ output_path = "/Users/Desktop/virs/output/" #create an output folder
 
 # give the file name corresponding to each spectra file
 rock = ["rock", "group1_00002.sed"] #group1_00002.sed is the name of the spectra file that is collected using Spectroradiometer
-soil_sample = ["soil_sample", "group1_00009.sed", "group1_00010.sed"]
+soil_sample = ["soil_sample", "group1_00009.sed", "group1_00010.sed"] #if you have more than one spectra for one class, add them all
 spruce_needle = ["spruce_needle", "group1_00011.sed", "group1_00012.sed"]
 fresh_snow = ["fresh_snow", "group1_00013.sed", "group1_00014.sed"]
 old_snow = ["old_snow", "group1_00015.sed", "group1_00016.sed"]
